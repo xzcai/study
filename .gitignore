@@ -1,0 +1,22 @@
+*.iml
+.idea
+target
+logs
+tmp
+
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.project
+.classpath
+*.iml
+.idea/

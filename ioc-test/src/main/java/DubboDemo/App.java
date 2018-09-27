@@ -9,6 +9,7 @@ public class App
     /**
      * creating a new branch is quick
      * creating a new branch is quick & simple
+     * creating a new branch is quick and simple
      * @author cxz
      * @date 2018/9/27
      * @param

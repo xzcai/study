@@ -6,6 +6,13 @@ package DubboDemo;
  */
 public class App 
 {
+    /**
+     * creating a new branch is quick
+     * @author cxz
+     * @date 2018/9/27
+     * @param
+     * @return
+     */
     public static void main( String[] args )
     {
         int age = 12;
